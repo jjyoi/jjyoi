@@ -22,4 +22,4 @@ I’m currently an data engineering intern @ Scotiabank. Outside of work, I’m 
 | **Ontario Electricity Demand Forecasting** | Forecasts electricity demand with LightGBM and evaluates how far predictions are off in megawatts. |
 | **Machine Learning Notes** | A growing collection of runnable baselines and tuning notes, including SVMs, k-nearest neighbors, and naïve Bayes. |
 
-When I had free time, I enjoyed bouldering (v4 climber) or looking for my next favourite restaurant in Toronto.
+When I had free time, I enjoyed bouldering (v4 climber), looking for my next favourite restaurant in Toronto, and travelling!! (duh).
