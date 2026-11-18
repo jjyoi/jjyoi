@@ -1,25 +1,38 @@
-<h1 align="center">Hello there!! I’m Joyi😁😁</h1>
+<h1 align="center">hullo!! i’m joyi ✦✦</h1>
+
+<p align="center">cs &amp; stats @ u of t</p>
 
 <p align="center">
-  Computer Science &amp; Statistics @ UofT
-</p>
-
-<p align="center">
-  <a href="https://jjyoi.github.io/">Portfolio</a>
-  ·
-  <a href="https://github.com/jjyoi?tab=repositories">Repositories</a>
+  <a href="YOUR_LINKEDIN_URL">linkedin</a> |
+  <a href="https://jjyoi.github.io/">website</a> |
+  <a href="mailto:YOUR_EMAIL_ADDRESS">email</a>
 </p>
 
 ---
 
-### What I’m up to
-I’m currently an data engineering intern @ Scotiabank. Outside of work, I’m getting obliterated by operating systems.
+### ✦ what i’m up to
 
-### Things I’ve built
-| Project | What it does |
-| :--- | :--- |
-| **Visual Image Recommender** | Give it an image and it finds visually similar ones using CLIP embeddings and FAISS. |
-| **Ontario Electricity Demand Forecasting** | Forecasts electricity demand with LightGBM and evaluates how far predictions are off in megawatts. |
-| **Machine Learning Notes** | A growing collection of runnable baselines and tuning notes, including SVMs, k-nearest neighbors, and naïve Bayes. |
+- 🛠️ building data pipelines as a data engineering intern @ scotiabank
+- 💻 getting obliterated by operating systems
+- 🧠 training for the international collegiate ai challenge with my u of t teammates
 
-When I had free time, I enjoyed bouldering (v4 climber), looking for my next favourite restaurant in Toronto, and travelling!! (duh). 
+### ✦ things i’ve built
+
+- 🖼️ **visual image recommender** — give it an image and it finds visually similar ones using clip embeddings and faiss.
+- ⚡ **ontario electricity demand forecasting** — predicted electricity demand with lightgbm and got an rmse of 732 mw.
+- 📓 **machine learning notes** — my growing collection of runnable baselines and tuning notes for svms, knn, and naïve bayes.
+
+### ✦ my ml stack
+
+![python](https://img.shields.io/badge/python-4169A8?style=for-the-badge&logo=python&logoColor=white)
+![pytorch](https://img.shields.io/badge/pytorch-C44668?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-A94C13?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-7444A6?style=for-the-badge&logo=pandas&logoColor=white)
+![lightgbm](https://img.shields.io/badge/lightgbm-31795A?style=for-the-badge)
+![faiss](https://img.shields.io/badge/faiss-166E83?style=for-the-badge)
+
+### ✦ when i have free time
+
+- 🧗🏻‍♀️ bouldering (v4 climber!)
+- 🍜 looking for my next favourite restaurant in toronto
+- ✈️ travelling!! (duh)
