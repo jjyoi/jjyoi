@@ -13,7 +13,7 @@
 ---
 
 ### What I’m up to
-I’m currently an data engineering intern @ Scotiabank. Outside work, I’m getting obliterated by operating systems.
+I’m currently an data engineering intern @ Scotiabank. Outside of work, I’m getting obliterated by operating systems.
 
 ### Things I’ve built
 | Project | What it does |
