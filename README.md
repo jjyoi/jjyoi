@@ -7,7 +7,7 @@
   &nbsp;·&nbsp;
   <a href="https://jjyoi.github.io/"><img src="https://api.iconify.design/fa6-brands/square-github.svg?color=%238B5CF6" width="22" height="22" align="middle" alt=""> my portfolio</a>
   &nbsp;·&nbsp;
-  <a href="mailto:joyi.xue@gmail.com"><img src="https://api.iconify.design/fa6-solid/square-envelope.svg?color=%23DB4A67" width="22" height="22" align="middle" alt=""> contact me!</a>
+  <a href="mailto:joyi.xue@gmail.com"><img src="https://api.iconify.design/fa6-solid/square-envelope.svg?color=%23DB4A67" width="22" height="22" align="middle" alt=""> joyi.xue [at] gmail [dot] com!</a>
 </p>
 
 ---
