@@ -3,13 +3,11 @@
 <p align="center">cs &amp; stats @ u of t</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joyi-x/"><img src="https://api.iconify.design/fa6-brands/linkedin.svg?color=%230A66C2" width="22" height="22" align="middle" alt=""> linkedin </a>
+  <a href="https://www.linkedin.com/in/joyi-x/"><img src="https://api.iconify.design/fa6-brands/linkedin.svg?color=%230A66C2" width="22" height="22" align="middle" alt=""> linkedin</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/jjyoi"><img src="https://api.iconify.design/fa6-brands/square-github.svg?color=%238B5CF6" width="22" height="22" align="middle" alt=""> github </a>
+  <a href="https://jjyoi.github.io/"><img src="https://api.iconify.design/fa6-brands/square-github.svg?color=%238B5CF6" width="22" height="22" align="middle" alt=""> my portfolio</a>
   &nbsp;·&nbsp;
-  <a href="https://jjyoi.github.io/"><img src="https://api.iconify.design/fa6-solid/up-right-from-square.svg?color=%230F9185" width="22" height="22" align="middle" alt=""> my portfolio </a>
-  &nbsp;·&nbsp;
-  <a href="mailto:joyi.xue@gmail.com"><img src="https://api.iconify.design/fa6-solid/square-envelope.svg?color=%23DB4A67" width="22" height="22" align="middle" alt=""> contact me! </a>
+  <a href="mailto:joyi.xue@gmail.com"><img src="https://api.iconify.design/fa6-solid/square-envelope.svg?color=%23DB4A67" width="22" height="22" align="middle" alt=""> contact me!</a>
 </p>
 
 ---
