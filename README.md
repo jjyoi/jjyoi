@@ -20,7 +20,7 @@
 ### things i’ve built
 - 🖼️ **visual image recommender** — give it an image and it finds visually similar ones using clip embeddings and faiss.
 - ⚡ **ontario electricity demand forecasting** — predicted electricity demand with lightgbm and got an rmse of 732 mw.
-- 📓 **machine learning notes** — my growing collection of runnable baselines and tuning notes for svms, knn, and naïve bayes.
+- 📓 **machine learning notes** — my growing collection of runnable baselines and tuning notes for svms, knn, and naïve bayes...etc...
 
 ### tech stack
 
